@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundTimerSample", "BackgroundTimerSample\BackgroundTimerSample.csproj", "{FAA2C95D-FB54-4D15-974E-BDECD35E7F34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA2C95D-FB54-4D15-974E-BDECD35E7F34}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FAA2C95D-FB54-4D15-974E-BDECD35E7F34}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FAA2C95D-FB54-4D15-974E-BDECD35E7F34}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FAA2C95D-FB54-4D15-974E-BDECD35E7F34}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{FAA2C95D-FB54-4D15-974E-BDECD35E7F34}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FAA2C95D-FB54-4D15-974E-BDECD35E7F34}.Debug|iPhone.Build.0 = Debug|iPhone
+		{FAA2C95D-FB54-4D15-974E-BDECD35E7F34}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FAA2C95D-FB54-4D15-974E-BDECD35E7F34}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
